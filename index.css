@@ -3,10 +3,7 @@
 }
 
 #div-1{
-	background-image: url("https://pixabay.com/get/g3b4d37b2a309c36719ea6c3e9f9ea693109753143b6cd182f6d9de285099b52326416e9d388e0927591a07258fa838ac8165c1c76a3d851a6d22f12667a4b9ed_1920.jpg");
-	background-position: center top;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+	background-image: linear-gradient(to right top, #0a3283, #404e96, #656ca8, #878cbb, #aaadcd, #a8aac8, #a5a8c2, #a3a5bd, #7d7f9f, #595a82, #373866, #12184a);
 	
 
 }
