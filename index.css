@@ -1,0 +1,38 @@
+*{
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#div-1{
+	background-image: url("https://pixabay.com/get/g3b4d37b2a309c36719ea6c3e9f9ea693109753143b6cd182f6d9de285099b52326416e9d388e0927591a07258fa838ac8165c1c76a3d851a6d22f12667a4b9ed_1920.jpg");
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	
+
+}
+
+#nav-1{
+	background-image: linear-gradient(to right top, #ec2424, #f15b19, #f38218, #f3a327, #f1c242, #f1c240, #f1c33d, #f1c33b, #f4a412, #f78200, #f95900, #f80909);
+}
+
+#but-1{
+	background-image: linear-gradient(to right top, #928d8d, #a5a1a2, #b9b6b7, #cdcbcd, #e2e1e2, #eae9ea, #f2f2f3, #fafafb, #f5f6f8, #f1f3f4, #eceff1, #e7ecec);
+}
+
+#sil{  
+  opacity: 0.75;
+}
+
+#form-1{
+	background-image: linear-gradient(to right top, #64da4c, #76dc61, #86dd74, #95de86, #a4df98, #a1de96, #9ede93, #9bdd91, #84da7a, #6ad761, #4ad347, #01cf25);
+
+}
+
+#toolsbg{
+	background-image: linear-gradient(to right top, #9bc3ee, #92cfec, #95d8e6, #a3e0dd, #b7e6d5, #a2e1ce, #8cdcc9, #72d7c4, #00c3d7, #00aaf2, #0089ff, #4a58ec);
+
+}
+
+#toolin{
+	background-image: linear-gradient(to right top, #2f3032, #404447, #51595b, #646f6e, #798581, #74837f, #70817c, #6b7f7a, #4b6466, #314953, #1e2e3e, #131527);
+}
