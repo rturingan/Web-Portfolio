@@ -17,7 +17,7 @@
 }
 
 #sil{  
-  opacity: 0.75;
+  opacity: 0.20;
 }
 
 #form-1{
@@ -26,10 +26,14 @@
 }
 
 #toolsbg{
-	background-image: linear-gradient(to right top, #9bc3ee, #92cfec, #95d8e6, #a3e0dd, #b7e6d5, #a2e1ce, #8cdcc9, #72d7c4, #00c3d7, #00aaf2, #0089ff, #4a58ec);
+	background: linear-gradient(90deg, rgba(142,139,139,1) 0%, rgba(254,253,255,0.9976365546218487) 50%, rgba(142,139,139,1) 100%);
 
 }
 
 #toolin{
-	background-image: linear-gradient(to right top, #2f3032, #404447, #51595b, #646f6e, #798581, #74837f, #70817c, #6b7f7a, #4b6466, #314953, #1e2e3e, #131527);
+	background: linear-gradient(90deg, rgba(173,167,167,1) 0%, rgba(215,241,242,0.9976365546218487) 50%, rgba(173,167,167,1) 100%);
+}
+
+#contdet{
+	background: linear-gradient(90deg, rgba(177,207,214,1) 0%, rgba(235,234,234,1) 50%, rgba(177,207,214,0.9051995798319328) 100%);
 }
